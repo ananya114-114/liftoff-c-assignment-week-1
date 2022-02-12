@@ -9,7 +9,7 @@ int main()
    scanf("%d",&b);
    int n;
    printf("1:Sum\n2:subtraction\n3:multiplication\n4:division\nEnter: ");
-   scanf("%d",n);
+   scanf("%d",&n);
    switch(n)
 {
    case(1):
